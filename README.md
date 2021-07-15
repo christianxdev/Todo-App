@@ -1,3 +1,5 @@
+![3949092](https://user-images.githubusercontent.com/85961164/125725990-cad8ba63-7db4-493b-9cb2-80c8edf0c6c0.png)
+
 # My first project using React.js
 
 Had fun learning how to use react components, hooks and APIs
