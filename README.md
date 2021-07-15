@@ -1,6 +1,6 @@
 # My first project using React.js
 
-### Had fun learning how to use react components, hooks and APIs
+Had fun learning how to use react components, hooks and APIs
 
 
 ## Getting Started with Create React App
